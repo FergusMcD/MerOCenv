@@ -5,7 +5,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmelosammarco/MerOCenv/master?urlpath=lab/tree/Notebook/MerOC-env.ipynb)  [![Gitter](https://badges.gitter.im/MerOCenv/community.svg)](https://gitter.im/MerOCenv/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
-Python environment created using [MyBinder](https://mybinder.org). The environment contains modules for analyse and manipulate netCDF files which below listed:
+Python environment created using [MyBinder](https://mybinder.org). The environment contains modules for analyse and manipulate netCDF files which are listed below:
 
 - netCDF4
 - ftputil
