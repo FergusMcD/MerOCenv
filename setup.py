@@ -23,7 +23,8 @@ setup(name='MerOCenv',
         'xarray>=0.11.0', 
         'shapely>=1.6.4.post1', 
         'fiona>=1.8.4',
-        'cdo>=1.4.0'
+        'cdo>=1.4.0',
+        'nco'
       ],
       packages=find_packages(),
       
