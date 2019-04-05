@@ -5,7 +5,7 @@ dependencies:
   - python
   - pynco
   - numpy
-  - mathplotlib
+  - matplotlib
   - basemap
   - pandas
   - scipy
