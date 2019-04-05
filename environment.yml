@@ -9,6 +9,7 @@ dependencies:
   - basemap
   - pandas
   - scipy
+  - nco
   - pip:
     - ftputil>=3.4
     - motuclient>=1.8.1
