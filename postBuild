@@ -1,3 +1,0 @@
-conda update -n base conda
-apt-get update
-apt-get install nco
