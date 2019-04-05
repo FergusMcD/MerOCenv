@@ -1,2 +1,3 @@
-sudo apt-get update
-sudo apt-get install nco
+conda update -n base conda
+apt-get update
+apt-get install nco
