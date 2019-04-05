@@ -16,7 +16,11 @@ Python environment created using [MyBinder](https://mybinder.org). The environme
 - shapely 
 - fiona 
 - cdo
-- nco
+- pynco
+- matplotlib
+- basemap
+- numpy
+- scipy
 - [tool4nc](https://github.com/carmelosammarco/tool4nc)
 
 To use this environment just click on the ![Binder](https://mybinder.org/badge_logo.svg) icon on the top of the page. You will be redirected to the project's jupiter-lab web page.
