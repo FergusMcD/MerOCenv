@@ -18,4 +18,5 @@ dependencies:
     - fiona>=1.8.4
     - cdo>=1.4.0
     - tool4nc
+    - ads4mo
   
